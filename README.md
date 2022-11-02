@@ -1,4 +1,4 @@
-# Note App 
+# Notes App 
 
 Build with:
 
